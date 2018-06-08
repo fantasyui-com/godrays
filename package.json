@@ -1,0 +1,20 @@
+{
+  "name": "godrays",
+  "version": "1.0.0",
+  "description": "Simple and beautiful godray background collection. [Art, CSS, Backgrounds, CSS Gradients]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/godrays.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/godrays/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/godrays#readme"
+}
